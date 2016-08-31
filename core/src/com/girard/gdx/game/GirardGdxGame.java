@@ -6,6 +6,11 @@ import com.badlogic.gdx.graphics.GL20;
 import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 
+/**
+ * This is a commit to tigger a change in the file.
+ * @author cdgira
+ *
+ */
 public class GirardGdxGame extends ApplicationAdapter {
 	SpriteBatch batch;
 	Texture img;
