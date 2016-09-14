@@ -7,7 +7,7 @@ import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 
 /**
- * Branch: girard_mygame
+ * Branch: girard_mygame - comment I could loose.
  * This is a commit to tigger a change in the file.
  * @author cdgira
  *
