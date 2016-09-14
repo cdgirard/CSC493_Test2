@@ -1,5 +1,8 @@
 package com.girard.gdx.game;
 
+/**
+ * Branch Master.
+ */
 import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.GL20;
